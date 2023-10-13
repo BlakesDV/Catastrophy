@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97277b7199994f2409ad29852df16217, type: 3}
+  m_Name: S1
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: "El mundo, mejor dicho, mi mundo ha cambiado bastante desde que decid\xED
+      moverme por la universidad, tengo un trabajo sencillo como cajero en un peque\xF1o
+      supermercado de mi localidad"
+    speaker: {fileID: 11400000, guid: 1f00ec3bf0d1e9744914d242fd382f1a, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 1f00ec3bf0d1e9744914d242fd382f1a, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: 400, y: 0}
+      moveSpeed: 0
+    music: {fileID: 8300000, guid: 06a1c40ac28708348a24bc6307a01771, type: 3}
+    sound: {fileID: 0}
+  - text: "el alquiler es barato, al inicio se nos advirti\xF3 que los gatos se hab\xEDan
+      salido de control por la cuadra y que procur\xE1ramos tener nuestros balcones
+      y ventanas cerradas para evitar accidentes con la comida o los muebles."
+    speaker: {fileID: 11400000, guid: 1f00ec3bf0d1e9744914d242fd382f1a, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: "Suelo salir tarde por la universidad as\xED que ver a las pandillas de
+      gatos, salir por la noche a buscar comida, se hizo h\xE1bito mientras hac\xEDa
+      mi tarea, antes de salir de turno tomaba un postre distinto"
+    speaker: {fileID: 11400000, guid: 1f00ec3bf0d1e9744914d242fd382f1a, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: " algunos d\xEDas era algo picante como esos ... \"flaming hot\" ja, ja,
+      ja, pero algunos otros era un mini pastel de chocolate, sol\xEDa darme un descanso
+      despu\xE9s de acabar mis tareas para comer mi postre en el balc\xF3n"
+    speaker: {fileID: 11400000, guid: 1f00ec3bf0d1e9744914d242fd382f1a, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: " y con el tiempo pude notar como dos peculiares gatos se acercaban a m\xED,
+      con el tiempo les di el nombre de Cinnamon y Coconut"
+    speaker: {fileID: 11400000, guid: 1f00ec3bf0d1e9744914d242fd382f1a, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: "a Coconut le encantaba que le aventara peque\xF1as sobras de m\xED frituras,
+      mientras que a Cinnamon le encantaba cualquier cosa azucarada. Poco a poco
+      fueron ganando confianza y espacio entrando a mi casa por las ventanas, viv\xEDa
+      solo as\xED que no era molestia tener un poco de compa\xF1\xEDa"
+    speaker: {fileID: 11400000, guid: 1f00ec3bf0d1e9744914d242fd382f1a, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Recuerdo una noche llena de pesadillas y un malestar horrible, como si
+      mis sentidos me alertaran de algo, a mis lados estaban Cinnamon y Coconut
+    speaker: {fileID: 11400000, guid: 1f00ec3bf0d1e9744914d242fd382f1a, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 1f00ec3bf0d1e9744914d242fd382f1a, type: 2}
+      spriteIndex: 0
+      actionType: 3
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  background: {fileID: 21300000, guid: f4d6e1ed65faa5f4698aa4f586edea9e, type: 3}
+  nextScene: {fileID: 11400000, guid: dc151b269b452ef4e97c02c2a67c029c, type: 2}

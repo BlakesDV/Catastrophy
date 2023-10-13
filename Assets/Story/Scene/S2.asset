@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97277b7199994f2409ad29852df16217, type: 3}
+  m_Name: S2
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: "pude dormir un poco y al despertar not\xE9 a mi lado algo que era todo
+      menos un gato, era no una eran dos chicas dormidas en la orilla de la cama"
+    speaker: {fileID: 11400000, guid: 1f00ec3bf0d1e9744914d242fd382f1a, type: 2}
+    actions: []
+    music: {fileID: 8300000, guid: 3735bf3bf4d15444698fa854cc9241c0, type: 3}
+    sound: {fileID: 0}
+  - text: "mi alma escap\xF3 por un momento y antes de poder gritar una se levant\xF3
+      r\xE1pidamente a taparme la boca bruscamente"
+    speaker: {fileID: 11400000, guid: 1f00ec3bf0d1e9744914d242fd382f1a, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 1f00ec3bf0d1e9744914d242fd382f1a, type: 2}
+      spriteIndex: 0
+      actionType: 3
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: "Un grito m\xE1s y lo recordar\xE1s como el \xFAltimo que sale de esa garganta,
+      mi hermana est\xE1 dormida y le gusta dormir sus 16 h, mientras tanto te explico
+      de que va todo esto"
+    speaker: {fileID: 11400000, guid: 2eb6d7ba475ada54688560e1a5920f2a, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 2eb6d7ba475ada54688560e1a5920f2a, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: " nosotras somos demonios y aunque nos veamos as\xED no es m\xE1s que una
+      asquerosa maldici\xF3n que nos celosamente cay\xF3 sobre nosotras, hemos tenido
+      que arregl\xE1rnoslas en la calle hasta que fuiste lo suficientemente ingenuo
+      para dejarnos entrar y darnos la comodidad de estar en esta casa."
+    speaker: {fileID: 11400000, guid: 2eb6d7ba475ada54688560e1a5920f2a, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: "Podr\xEDas bajarlo?, lo lamento, mi hermana es un poco gru\xF1ona y no
+      se le da bien explicar, pero antes de que te hagas ilusiones me temo decirte
+      que es verdad, y que si bien no vas a ser alimento como normalmente lo son
+      tu raza ser\xE1s nuestro esclavo"
+    speaker: {fileID: 11400000, guid: 88ec6718e8eb5064b9219edc700aafb9, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 88ec6718e8eb5064b9219edc700aafb9, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: "has hecho bien d\xE1ndonos alimento y hogar, as\xED que pensamos que ser\xEDa
+      un desperdicio deshacernos de alguien tan \xFAtil como t\xFA, ahora si no te
+      molesta podemos ir a comer algo?, muero de hambre y te empiezas a ver apetitoso."
+    speaker: {fileID: 11400000, guid: 88ec6718e8eb5064b9219edc700aafb9, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  background: {fileID: 21300000, guid: cbf91bde32dd7e9439ee9e93a50d6870, type: 3}
+  nextScene: {fileID: 11400000, guid: 9fded54dacfeb8741b9089a91cf09c1d, type: 2}

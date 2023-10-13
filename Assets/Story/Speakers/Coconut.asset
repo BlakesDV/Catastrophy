@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37c00c366b476b94093e6427cfd56530, type: 3}
+  m_Name: Coconut
+  m_EditorClassIdentifier: 
+  speakerName: Coconut
+  textColor: {r: 0.32551616, g: 0.8288023, b: 0.8962264, a: 1}
+  sprites: []
+  prefab: {fileID: 2956509795368897281, guid: ee101a07372b56247b21978647c65ed9, type: 3}

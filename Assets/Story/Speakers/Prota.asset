@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37c00c366b476b94093e6427cfd56530, type: 3}
+  m_Name: Prota
+  m_EditorClassIdentifier: 
+  speakerName: T/N
+  textColor: {r: 0.046991818, g: 0.9056604, b: 0.84919995, a: 1}
+  sprites:
+  - {fileID: 21300000, guid: 489e379e2a5140d4c849085c6bfc59c9, type: 3}
+  prefab: {fileID: 3584578649227166724, guid: e7d3c32905030b444b546a9d6e2c338f, type: 3}
